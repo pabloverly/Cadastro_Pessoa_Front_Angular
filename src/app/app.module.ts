@@ -9,9 +9,13 @@ import { ModalModule } from 'ngx-bootstrap/modal';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { PessoasComponent } from './components/pessoas/pessoas.component';
+import { NavbarComponent } from './components/navbar/navbar.component';
+import { HomeComponent } from './components/home/home.component';
+import { SobreComponent } from './components/sobre/sobre.component';
+
 
 @NgModule({
-  declarations: [AppComponent, PessoasComponent],
+  declarations: [AppComponent, PessoasComponent, NavbarComponent, HomeComponent, SobreComponent],
   imports: [
     BrowserModule,
     AppRoutingModule,

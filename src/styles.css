@@ -1,1 +1,35 @@
-/* You can add global styles to this file, and also import other style files */
+:root {
+    /* font-size: 60%; */
+    --color-background: #F0F0F7;
+    --color-primary-lighter: #111ec1;
+    --color-primary-light: #0083c0;
+    --color-primary: #0083c0;
+    --color-primary-dark: #774DD6;
+    --color-primary-darker: #6842C2;
+    --color-secundary: #04D361;
+    --color-button-red: rgb(211, 4, 90);
+    --color-button-reddark: rgb(63, 2, 27);
+    --color-secundary-dark: #04BF58;
+    --color-title-in-primary: #FFFFFF;
+    --color-text-in-primary: #D4C2FF;
+    --color-text-title: #32264D;
+    --color-text-complement: #9C98A6;
+    --color-text-base: #6A6180;
+    --color-line-in-white: #E6E6F0;
+    --color-input-background: #F8F8FC;
+    --color-button-text: #FFFFFF;
+    --color-box-base: #FFFFFF;
+    --color-box-footer: #FAFAFC;
+  }
+  html{
+    font-size: 62.5%; /* para simular o rem = px */  
+  }
+  body{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-size: 1.6rem;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
+    background: var(--color-background);
+  }
+       
