@@ -12,10 +12,11 @@ import { PessoasComponent } from './components/pessoas/pessoas.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
 import { HomeComponent } from './components/home/home.component';
 import { SobreComponent } from './components/sobre/sobre.component';
+import { LoginComponent } from './components/login/login.component';
 
 
 @NgModule({
-  declarations: [AppComponent, PessoasComponent, NavbarComponent, HomeComponent, SobreComponent],
+  declarations: [AppComponent, PessoasComponent, NavbarComponent, HomeComponent, SobreComponent, LoginComponent],
   imports: [
     BrowserModule,
     AppRoutingModule,
