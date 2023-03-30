@@ -1,0 +1,23 @@
+#intro {
+    /* background-image: url(https://mdbootstrap.com/img/new/fluid/city/008.jpg); */
+    background-image: url("~/src/assets/images/01.png");
+    height: 100vh;
+  }
+.form-group{
+height: 100%;width: 100%;
+margin-top: 2rem;
+}
+  /* Height for devices larger than 576px */
+  @media (min-width: 992px) {
+    #intro {
+      margin-top: -58.59px;
+    }
+  }
+
+  .navbar .nav-link {
+    color: #fff !important;
+  }
+  .form-control{
+    background-color: aliceblue;
+    color: black;
+  }
