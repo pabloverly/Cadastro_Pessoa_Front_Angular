@@ -42,7 +42,7 @@ export class LoginComponent {
       // this.loginService.loginUsuario(dadosLogin).subscribe(
       //   token =>{
       //     debugger
-      //     var myToken = Token
+      //     var myToken = token
       //   },
       //   erro =>{
       //     // debugger
