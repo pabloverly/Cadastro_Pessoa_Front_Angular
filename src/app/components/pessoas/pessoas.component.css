@@ -6,7 +6,7 @@
     color: white;
 }
 .container{
-    font-size: 2rem;
+    font-size: 3rem;
 }
 .btn-outline-info{
     width: 10rem;
@@ -36,4 +36,10 @@
     font-size: 1rem;
     background-color:  green;
     color: white;    
+}
+.table{
+    font-size: 2rem;
+}
+.form-control{
+    font-size: 2rem;
 }
