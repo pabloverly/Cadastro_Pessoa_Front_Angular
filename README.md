@@ -2,7 +2,7 @@
 # ANGULAR
 
 ## Tela de Principal
-![](https://raw.githubusercontent.com/pabloverly/Cadastro_Pessoa_Front_Angular/master/src/assets/images/01.png?token=GHSAT0AAAAAACAF6PMSNC5FRI7KHTVDFKDUZBEWR2Q)
+![](https://github.com/pabloverly/Cadastro_Pessoa_Front_Angular/blob/master/src/assets/images/01.png?raw=true)
 
 
 ## Tela Principal Pessoa
